@@ -1,10 +1,10 @@
 // Create globals for Exit Code and Fruit Array
 var _FRUITS = [];
-var _EXIT_CODE = 999;
+var _EXIT_CODE = 'Dog';
 
 // This function sets variables to certain values
 function InitializeVariables() {
-	_FRUITS = ['Apple', 'Banana', 'Cherry'];
+	_FRUITS = ['Apple', 'Banana', 'Cherry','Pinapple','Tomato','Kiwi'];
 }
 
 
